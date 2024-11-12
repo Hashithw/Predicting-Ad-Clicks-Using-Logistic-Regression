@@ -1,1 +1,1 @@
-# Predicting-Ad-Clicks-Using-Logistic-Regression
+# Predicting Ad Clicks Using Logistic Regression
